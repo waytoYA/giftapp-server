@@ -1,5 +1,3 @@
-GIFT APP - SERVER
+С веб-сокетами, как заказывали)
 
-@qqdoctor
-
-I am ready to work for food :)
+[GiftApp, server] @qqdoctor. I am ready to work for food for my own growth 😎
